@@ -499,6 +499,7 @@ Learn
 * :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
 * :free: [Scott Lilly: Build a C#/WPF RPG](https://scottlilly.com/build-a-cwpf-rpg/)
+* :free: [720 free online programming courses](https://medium.freecodecamp.org/720-free-online-programming-computer-science-courses-you-can-start-in-january-96988eb0c52f) 
 
 ### Computer Graphics
 
