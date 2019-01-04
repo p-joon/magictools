@@ -498,6 +498,7 @@ Learn
 * :free: [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 * :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+* :free: [Scott Lilly: Build a C#/WPF RPG](https://scottlilly.com/build-a-cwpf-rpg/)
 
 ### Computer Graphics
 
